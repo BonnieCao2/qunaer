@@ -36,7 +36,7 @@ export default {
   },
     methods: {
       getCityInfo () {
-        axios.get('/qunaer/static/mock/city.json')
+        axios.get('/static/mock/city.json')
           .then(this.handleGetCityInfoSucc)
       },
       handleGetCityInfoSucc (res) {
