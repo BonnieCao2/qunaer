@@ -109,6 +109,7 @@ export default {
       line-height :.62rem
       padding-left :.2rem
       background :#fff
+      cursor:pointer
 
 
 </style>

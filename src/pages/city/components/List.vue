@@ -109,6 +109,7 @@ export default {
     .button-wrapper
       float :left
       width :33.33%
+      cursor:pointer
     .button
       margin:.1rem
       padding :.1rem 0
